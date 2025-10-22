@@ -1,0 +1,16 @@
+﻿# Node modules
+node_modules/
+inicio/node_modules/
+
+# Build outputs
+dist/
+build/
+inicio/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
